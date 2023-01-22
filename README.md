@@ -32,4 +32,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Finans é um site uma aplicação financeira com o intuito de te ajudar a alcançar o sonho da independencia financeira.
 
-- [Visite o projeto online](https://danrodriguezdev.github.io/nlw-setup-explorer/)
+- [Visite o projeto online](https://danrodriguezdev.github.io/Finans/)
