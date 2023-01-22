@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img alt="projeto Finans" src="./img/Finans-logo.png" width="100%">
+  <img alt="projeto Finans" src="./img/Finans-logo.PNG" width="100%">
 </p>
 
 ## 🚀 Tecnologias
