@@ -11,3 +11,12 @@
 footer p a {
 	margin: 5px 15px;
 }
+
+
+.box {
+    font-size: 12px;
+    background: #fff;
+    padding: 24px;
+    border-radius: 8px;
+    border: 1px solid #f2f2f2;
+}
